@@ -5,6 +5,7 @@ The documentation will be split into multiple readme files, inside of the docs f
 
 The game engine is named after my cat, Ginger. Gingey for short.
 
+# Build Instructions
 Before you build the project, you need to have Rust installed and added to your path. Instructions for that can be found at [https://doc.rust-lang.org/book/ch01-01-installation.html](https://www.rust-lang.org/tools/install)
 
 In order to build the entire project, all you need to do is run ```cargo build``` in the project's root dir. If you want to run it, run ```cargo run```.
